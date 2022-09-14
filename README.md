@@ -6,7 +6,7 @@ Place this code in public/util/config.php:
 
 ```php
 <?php
-  //API credentials.
+	//API credentials.
 	$api_username = "root";
 	$api_password = "sUP3R53CR3T#";
 
