@@ -4,6 +4,7 @@ Please notice that the API password must contain at least one upper- and one low
 
 Place this code in public/util/config.php:
 
+```php
 <?php
   //API credentials.
 	$api_username = "root";
@@ -15,3 +16,4 @@ Place this code in public/util/config.php:
 	$db_password = "";
 	$db_database = "test";
 ?>
+```
