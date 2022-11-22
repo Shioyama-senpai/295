@@ -65,7 +65,7 @@
 	 *                 @OA\Property(property="active", type="integer", example="1"),
 	 *                 @OA\Property(property="id_category", type="integer", example="1"),
 	 *                 @OA\Property(property="name", type="string", example="Nice Product"),
-	 *                 @OA\Property(property="image", type="string", example="/path/to/image.png"),
+	 *                 @OA\Property(property="product_image", type="string", example="/path/to/image.png"),
 	 *                 @OA\Property(property="description", type="string", example="This is a very fine product with some awesome features."),
 	 *                 @OA\Property(property="price", type="decimal", example="9.95"),
 	 *                 @OA\Property(property="available_stock", type="integer", example="17")
